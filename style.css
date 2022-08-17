@@ -4,9 +4,9 @@
 #logo {
     filter: brightness(1.1);
     mix-blend-mode: multiply;
-    width: 120px;
+    width: 100px;
 }
-.main .carousel-inner img {
+#main .carousel-inner img {
     max-height: 70vh;
     object-fit: cover;
     filter: grayscale(70%);
